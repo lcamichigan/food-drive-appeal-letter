@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="13.1">
+	<Story Self="u229" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Date</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Salutation">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Dear Brothers and Friends of Sigma,</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Sigma is collecting nonperishable food items and monetary gifts to donate to Food Gatherers on </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PageNumberType="TextVariable">
+				<TextVariableInstance Self="u3af" Name="Food Drive End Date" ResultText="Month ##" AssociatedTextVariable="dTextVariablenFood Drive End Date" />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>. Food Gatherers put ##% of its YYYY expenses toward supporting hunger relief efforts throughout Washtenaw County, Mich.; is among the one percent of charities that received ## consecutive four-star ratings for sound fiscal management from Charity Navigator; and is a member of Feeding America, ΛΧΑ’s philanthropy partner. Every $5 donated to Food Gatherers can provide up to 15 meals for adults, seniors, and children in Sigma’s community. Learn more about Food Gatherers at</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" KerningValue="40">
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>foodgatherers.org, and Feeding America at feedingamerica.org.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>With the outstanding efforts of more than ###,### ΛΧΑ members and the growing support of sponsors and local communities, ΛΧΑ provided #,###,### meals last year. I am proud to say that #,### of these were contributed by Sigma.</Content>
+				<Br />
+				<Content>Please donate before </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PageNumberType="TextVariable">
+				<TextVariableInstance Self="u3b1" Name="Food Drive End Date" ResultText="Month ##" AssociatedTextVariable="dTextVariablenFood Drive End Date" />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> and support Sigma’s food drive! If each of the ### brothers and friends receiving this letter donates $25 to the food drive, Sigma could provide ##,### meals—enough to feed ## people in Sigma’s community for a year.</Content>
+				<Br />
+				<Content>I look forward to seeing you at Event at 1601 Washtenaw Ave on Month, ## at </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Time of Day">
+				<Content>##:## a.m.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>!</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Valediction">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Sincerely yours in ΖΑΧ,</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+				<Content>Name, Michigan ’##, Σ ####</Content>
+				<Br />
+				<Content>Chapter Philanthropy Chairman</Content>
+				<Br />
+				<Content>email@umich.edu</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
