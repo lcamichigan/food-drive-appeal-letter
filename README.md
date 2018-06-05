@@ -3,7 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/njbi2ne90pj81idb?svg=true)](https://ci.appveyor.com/project/lcamichigan/food-drive-appeal-letter)
 
 This is a collection of resources for creating food drive appeal letters for
-[Sigma Zeta of ΛΧΑ](http://lcamichigan.com).
+[Sigma Zeta of ΛΧΑ](https://lcamichigan.com).
 
 ## Contents
 
