@@ -9,7 +9,6 @@ This is a collection of resources for creating food drive appeal letters for
 
 * [Getting Started](#getting-started)
 * [Preparing a Letter](#preparing-a-letter)
-* [Creating an InDesign File](#creating-an-indesign-file)
 
 ## Getting Started
 
@@ -23,7 +22,7 @@ To create a food drive appeal letter, you need:
   https://ci.appveyor.com/project/lcamichigan/donation-appeal-letter/build/artifacts.
   The easiest way to get Letter.idml is to download it from
   https://ci.appveyor.com/project/lcamichigan/food-drive-appeal-letter/build/artifacts,
-  but you can also [create your own](#creating-an-indesign-file).
+  but you can also [create your own](https://github.com/lcamichigan/make-idml).
 
 * These fonts:
 
@@ -65,47 +64,3 @@ could be used to introduce a Watermelon Bust:
 > and monetary gifts we collect to Food Gatherers, a local food bank and member
 > of ΛΧΑ’s philanthropy partner Feeding America. Learn more about Food Gatherers
 > from its website at foodgatherers.org.
-
-## Creating an InDesign File
-
-Creating an InDesign IDML file from the files in this repository requires the
-free [Zip](http://www.info-zip.org/Zip.html) utility. To install Zip on Windows:
-
-1. Download zip300xn-x64.zip from
-   ftp://ftp.info-zip.org/pub/infozip/win32/zip300xn-x64.zip.
-
-2. Right-click zip300xn-x64.zip, choose Extract All, and then click Extract to
-   extract a folder named zip300xn-x64.
-
-3. Right-click zip300xn-x64.zip in the zip300xn-x64 folder you just extracted,
-   choose Extract All, and then click Extract to extract another folder named
-   zip300xn-x64.
-
-4. Move this second zip300xn-x64 folder to C:\Program Files.
-
-Zip is included with macOS.
-
-To create an InDesign file, first download this repository as a ZIP archive. To
-do this, click
-[here](https://github.com/lcamichigan/food-drive-appeal-letter/archive/master.zip).
-Unzip the archive wherever you wish. Then, `cd` to the
-[Letter IDML](Letter%20IDML) folder and enter in PowerShell
-
-```powershell
-& "$env:ProgramFiles\zip300xn-x64\zip" -X0 ..\Letter.idml mimetype
-& "$env:ProgramFiles\zip300xn-x64\zip" --recurse-paths --no-dir-entries -X9 ..\Letter.idml * --exclude mimetype
-```
-
-or in Command Prompt
-
-```batch
-"%ProgramFiles%\zip300xn-x64\zip" -X0 ..\Letter.idml mimetype
-"%ProgramFiles%\zip300xn-x64\zip" --recurse-paths --no-dir-entries -X9 ..\Letter.idml * --exclude mimetype
-```
-
-or in Terminal
-
-```sh
-zip -X0 ../Letter.idml mimetype
-zip --recurse-paths --no-dir-entries -X9 ../Letter.idml * --exclude *.DS_Store mimetype
-```
