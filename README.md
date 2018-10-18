@@ -38,11 +38,11 @@ To create a food drive appeal letter, you need:
 Here is where you can find information about
 [Food Gatherers](http://www.foodgatherers.org):
 
-| To find this                          | See                                                                                   |
-|---------------------------------------|---------------------------------------------------------------------------------------|
-| Expenses toward hunger relief         | A newsletter at http://www.foodgatherers.org/?module=Page&sID=annualreportnewsletters |
-| Feeding America membership status     | http://www.feedingamerica.org/find-your-local-foodbank/food-gatherers.html            |
-| Amount to provide up to 15 meals ($5) | http://www.foodgatherers.org                                                          |
+| To find this                          | See                                                                                    |
+|---------------------------------------|----------------------------------------------------------------------------------------|
+| Expenses toward hunger relief         | A newsletter at https://www.foodgatherers.org/?module=Page&sID=annualreportnewsletters |
+| Feeding America membership status     | https://www.feedingamerica.org/find-your-local-foodbank/food-gatherers                 |
+| Amount to provide up to 15 meals ($5) | https://www.foodgatherers.org                                                          |
 
 Here is where you can find information about ΛΧΑ:
 
