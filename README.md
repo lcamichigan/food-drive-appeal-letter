@@ -30,7 +30,7 @@ To create a food drive appeal letter, you need:
   |--------------------------------------------------------------|--------------------------------------------------------------------------|
   | [Damion](https://fonts.google.com/specimen/Damion)           | https://github.com/google/fonts/raw/master/ofl/damion/Damion-Regular.ttf |
   | [Gillius](http://arkandis.tuxfamily.org/adffonts.html)       | http://arkandis.tuxfamily.org/fonts/Gillius-Collection-20110312.zip      |
-  | [Lib­ert­i­nus](https://github.com/libertinus-fonts/libertinus) | https://github.com/libertinus-fonts/libertinus/releases/latest           |
+  | [Libertinus](https://github.com/libertinus-fonts/libertinus) | https://github.com/libertinus-fonts/libertinus/releases/latest           |
 
 ## Preparing a Letter
 
